@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.first-image-area{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 200px;
+    color: white;
+    
+}
+.first-small{
+    text-align: center;
+    color:white;
+
+}
+.link-button {
+    text-decoration: none;
+    background-image:linear-gradient(rgb(196, 36, 36), rgb(161, 122, 161));
+    padding: 10px 20px;
+    font-weight: 500;
+    color: white;
+    margin-left: 700px;
+    margin-top: 700px;
+}
+.first-section{
+    background:rgba(0,0,0,0.7)url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+   
+    background-blend-mode: darken;
+}
+
