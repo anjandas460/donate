@@ -64,12 +64,16 @@
     padding-top: 40%;
 }
 .first-form{
-    margin-left: 680px;
+    margin-left: 500px;
 }
 .border{
     border: 0;
     border-bottom: 2px solid rgb(196, 36, 36);
+    width: 600px;
     
+}
+#flex-area{
+    margin-left: 600px;
 }
 .button-style{
     background-image: linear-gradient(orange, rgb(8, 85, 26));
@@ -77,7 +81,7 @@
     font-weight: 500;
     color: white;
     border: 0;
-    margin-left: 20px;
+    margin-left: 230px;
 }
 .plan {
     
@@ -145,22 +149,4 @@
     height: 175px;
     width: 800px;
     margin: 0 auto;
-}
-.second-form {
-    margin-left: 255px;
-    border: 0;
-    background-color: burlywood;
-    height: 50px;
-    border-radius: 3px;
-}
-.button-style-2{
-    margin-top: 55px;
-}
-#button-style-2{
-    margin-left: 0;
-    border: 0;
-    color:white;
-    background-color: tomato;
-    height: 50px;
-    width: 80px;
 }
