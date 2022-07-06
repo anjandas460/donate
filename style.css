@@ -18,7 +18,7 @@
 }
 .link-button {
     text-decoration: none;
-    background-image:linear-gradient(rgb(196, 36, 36), rgb(161, 122, 161));
+    background-image: linear-gradient(orange, rgb(8, 85, 26));
     padding: 10px 20px;
     font-weight: 500;
     color: white;
@@ -26,11 +26,57 @@
     margin-top: 700px;
 }
 .first-section{
-    background:rgba(0,0,0,0.7)url(images/donation9.jpg);
+    background:rgba(0,0,0,0.7)url(images/donation4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
-   
     background-blend-mode: darken;
+}
+.section-2-3-header{
+    text-align: center;
+    font-size: 40px;
+}
+.second-third-small{
+    text-align: center;
+    color:brown;
+}
+.flex-area-tk{
+    display: flex;
+}
+.width-tk{
+    width: 100px;
+    height: 100px;
+    background-color:wheat;
+    margin: 20px;
+    
+}
+#first-div{
+    margin-left: 500px;
+}
+#secon-div-tk{
+    border: 3px solid red;
+}
+#secon-div-tk p{
+    color: red;
+}
+.width-tk p{
+    text-align: center;
+    padding-top: 40%;
+}
+.first-form{
+    margin-left: 680px;
+}
+.border{
+    border: 0;
+    border-bottom: 2px solid rgb(196, 36, 36);
+    
+}
+.button-style{
+    background-image: linear-gradient(orange, rgb(8, 85, 26));
+    padding: 10px 20px;
+    font-weight: 500;
+    color: white;
+    border: 0;
+    margin-left: 20px;
 }
 
