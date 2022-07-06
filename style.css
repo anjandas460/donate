@@ -107,3 +107,60 @@
     margin-right: 200px;
     background-color: rgba(128, 128, 128, 0.248);
 }
+
+
+.orange-color {
+    color: orange;
+}
+
+
+.half-width {
+    width: 50%;
+    padding: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.top-width{
+    margin-top: 150px;
+    background-color: rgba(95, 158, 160, 0.242);
+}
+.aline{
+    text-align: left;
+
+}
+#other-link{
+    margin-left: 1px;
+    margin-top: 400px;
+    
+}
+#other-h2{
+    margin-top: 70px;
+    font-size: 50px;
+}
+.update-div{
+    background-color: rgba(0, 255, 255, 0.404);
+    height: 175px;
+    width: 800px;
+    margin: 0 auto;
+}
+.second-form {
+    margin-left: 255px;
+    border: 0;
+    background-color: burlywood;
+    height: 50px;
+    border-radius: 3px;
+}
+.button-style-2{
+    margin-top: 55px;
+}
+#button-style-2{
+    margin-left: 0;
+    border: 0;
+    color:white;
+    background-color: tomato;
+    height: 50px;
+    width: 80px;
+}
